@@ -1,16 +1,26 @@
-### Hi there 👋
+### Olá! eu sou Gustavo! 👋
 
-<!--
-**alonieonly/alonieonly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Atualmente estou me graduando em Análise e desenvolvimento de sistemas, estou aprimorando minhas skills em programação e explorando a área de ciber-segurança! 👨🏻‍💻
 
-Here are some ideas to get you started:
+### Sobre mim:
+ <ul>
+   <li align="left"> <strong> 🤓 Atualmente estudando sobre: </strong> Ciber-segurança! 
+   </li>
+   <li align="left"> <strong> 👨‍🎓 Estudante na:  </strong> UNIBRA
+   </li>
+   </li>
+   <li align="left"> <strong> 📫 Como entrar em contato: </strong> gustavoalm132@gmail.com
+   </li>
+ </ul> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologias que uso no dia a dia:
+<ul>
+<div style="display: inline_block"<br/>
+  <img alt=c src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img alt=c src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img alt=c src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img alt=c src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
+</ul>
+
+![Alonie's GitHub stats](https://github-readme-stats.vercel.app/api?username=alonieonly&show_icons=true&theme=transparent)
