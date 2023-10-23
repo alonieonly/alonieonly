@@ -1,10 +1,10 @@
 ### Olá! eu sou Gustavo! 👋
 
-### Atualmente estou me graduando em Análise e desenvolvimento de sistemas, estou aprimorando minhas skills em programação e explorando a área de cibersegurança! 👨🏻‍💻
+### Atualmente estou me graduando em Análise e desenvolvimento de sistemas, sou entusiasta em UX/UI e estou aprimorando minhas skills em programação! 👨🏻‍💻
 
 ### Sobre mim:
  <ul>
-   <li align="left"> <strong> 🤓 Atualmente estudando sobre: </strong> Cibersegurança! 
+   <li align="left"> <strong> 🤓 Atualmente estudando sobre: </strong> Programação orientada a objeto!
    </li>
    <li align="left"> <strong> 👨‍🎓 Estudante na:  </strong> UNIBRA
    </li>
